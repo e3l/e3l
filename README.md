@@ -7,7 +7,7 @@ competitions, have a little bit of experience in CTFs, and love working
 on machine learning and data-related projects.
 
 ## Connect
-Feel free to email me or find me on Discord/Instagram! 
+Email me or find me on Discord/Instagram! 
 
 <!--
 **e3l/e3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
