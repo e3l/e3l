@@ -1,4 +1,4 @@
-Hello!
+Hello! :)
 
 - FTC 12635 + FRC 192
 - CTFs
