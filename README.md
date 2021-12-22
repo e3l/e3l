@@ -1,13 +1,7 @@
-## Hello!
+Hello!
 
-## I'm Ethan. 
-I'm a high school student in the bay area fascinated with software, from
-robotics to data science. I compete in both the FTC and FRC robotics 
-competitions, have a little bit of experience in CTFs, and love working
-on machine learning and data-related projects.
-
-## Connect
-Email me or find me on Discord/Instagram! 
+FTC + FRc
+CTFs
 
 <!--
 **e3l/e3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
