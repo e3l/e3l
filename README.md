@@ -1,9 +1,5 @@
 Hello! :)
 
-- FTC 12635 + FRC 192
-- CTFs
-- more
-
 <!--
 **e3l/e3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
